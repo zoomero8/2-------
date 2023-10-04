@@ -48,7 +48,7 @@ label {
 	font-size: 16px;
 	color: #333;
 }
-.back-to-home-link {
+.back-to-home-link_1 {
     display: inline-block;
     padding: 10px 20px;
     background-color: #45a049; /* Цвет фона кнопки */
@@ -58,6 +58,6 @@ label {
     transition: background-color 0.3s ease; /* Плавное изменение цвета при наведении */
 }
 
-.back-to-home-link:hover {
+.back-to-home-link_1:hover {
     background-color: #45a049; /* Цвет фона при наведении */
 }
